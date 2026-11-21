@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:38BDF8&height=210&section=header&text=andhvic&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Apps%20%7C%20Embedded%20%26%20IoT%20%7C%20IT%20Support%20%26%20Cloud&descAlignY=62&descSize=18" alt="Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:38BDF8&height=200&section=header&text=andhvic&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20IoT%20Builder%20%7C%20Server%20Infra&descAlignY=62&descSize=18"/>
 </div>
 
 <!-- Social & Quick Links -->
