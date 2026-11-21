@@ -138,7 +138,7 @@ andhvic@dev:~$ whoami --verbose
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=andhvic&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=andhvic&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&v=2" alt="GitHub Streak" />
 </div>
 
 <br/>
