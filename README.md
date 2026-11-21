@@ -132,7 +132,7 @@ andhvic@dev:~$ whoami --verbose
 ### 📈 Activity & Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andhvic&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andhvic&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true&v=2" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
