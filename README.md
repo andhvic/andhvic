@@ -73,7 +73,7 @@ andhvic@dev:~$ whoami --verbose
       <h4 align="center">💸 TUKU</h4>
       <p align="center">
         Multi-account personal finance manager featuring automated balance tracking, transaction logs, and goal-oriented savings.<br/><br/>
-        <a href="https://bisatuku.web.id"><b>🌐 pakaituku.web.id</b></a>
+        <a href="https://pakaituku.web.id"><b>🌐 pakaituku.web.id</b></a>
       </p>
       <p align="center">
         <code>React</code> <code>Vite</code> <code>Express</code> <code>Tailwind CSS</code>
